@@ -20,7 +20,8 @@ Este proyecto permite dividir imágenes en dos partes con efectos visuales inter
 - HTML5, CSS3 y JavaScript - Tecnologías fundamentales para la estructura y diseño del proyecto.
 
 ## 👁️‍🗨️ Demostración
-Puedes ver una demostración en vivo de este proyecto [aquí](#).
+Puedes ver una demostración en vivo de este proyecto [aquí](https://josecondori-ai.github.io/ruptura_de_fotos/).
+
 ##🚀 Cómo Usar
 1.  Clona el repositorio:
     ```bash
@@ -50,4 +51,4 @@ Puedes ver una demostración en vivo de este proyecto [aquí](#).
 5. 🔄 Abre un Pull Request en GitHub.
 
 ## P.D
-Este proyecto es una excelente práctica para mejorar habilidades en animación web y renderización interactiva. Si tienes ideas o sugerencias, ¡no dudes en compartirlas! 😊
+ste proyecto es solo una muestra de cómo puedes personalizar una página de error 404 y hacerla divertida e interactiva. ¡Espero que te guste tanto como me gustó a mí construirla! 💻👨‍💻🚀
