@@ -51,4 +51,3 @@ Puedes ver una demostración en vivo de este proyecto [aquí](https://josecondor
 5. 🔄 Abre un Pull Request en GitHub.
 
 ## P.D
-ste proyecto es solo una muestra de cómo puedes personalizar una página de error 404 y hacerla divertida e interactiva. ¡Espero que te guste tanto como me gustó a mí construirla! 💻👨‍💻🚀
