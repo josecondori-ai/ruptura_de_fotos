@@ -22,7 +22,7 @@ Este proyecto permite dividir imágenes en dos partes con efectos visuales inter
 ## 👁️‍🗨️ Demostración
 Puedes ver una demostración en vivo de este proyecto [aquí](https://josecondori-ai.github.io/ruptura_de_fotos/).
 
-##🚀 Cómo Usar
+## 🚀 Cómo Usar
 1.  Clona el repositorio:
     ```bash
     https://github.com/josecondori-ai/ruptura_de_fotos.git
@@ -50,4 +50,5 @@ Puedes ver una demostración en vivo de este proyecto [aquí](https://josecondor
     ```
 5. 🔄 Abre un Pull Request en GitHub.
 
-## P.D
+## 💬P.D
+¡Gracias por tu interés en este proyecto! Si tienes alguna pregunta, sugerencia o problema, no dudes en abrir un issue en GitHub o contactarme directamente. ¡Tu feedback es muy valioso!
